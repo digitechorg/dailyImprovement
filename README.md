@@ -16,3 +16,7 @@ https://guillaumeblanchet.medium.com/three-ways-to-validate-json-in-java-4b38d95
 # Spring Boot micro-services deployement on Kubernetes
 
 https://justgiveacar.medium.com/spring-boot-micro-services-deployement-on-kubernetes-76c1d298c1f
+
+# Payment gateway implementation using spring boot
+
+https://edvin-ruseckij.medium.com/payment-gateway-implementation-using-spring-boot-ecdc244094c
