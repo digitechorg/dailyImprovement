@@ -20,3 +20,7 @@ https://justgiveacar.medium.com/spring-boot-micro-services-deployement-on-kubern
 # Payment gateway implementation using spring boot
 
 https://edvin-ruseckij.medium.com/payment-gateway-implementation-using-spring-boot-ecdc244094c
+
+# CICD pipeline for Java application to deploy on kubernetes cluster using Jenkins | Devops Project
+
+https://www.youtube.com/watch?v=adG0vq5boL8&t=10902s
