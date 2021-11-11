@@ -24,3 +24,7 @@ https://edvin-ruseckij.medium.com/payment-gateway-implementation-using-spring-bo
 # CICD pipeline for Java application to deploy on kubernetes cluster using Jenkins | Devops Project
 
 https://www.youtube.com/watch?v=adG0vq5boL8&t=10902s
+
+# Play with JSON
+
+https://www.programcreek.com/java-api-examples/?api=com.jayway.jsonpath.JsonPath
