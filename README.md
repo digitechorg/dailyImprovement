@@ -32,3 +32,7 @@ https://www.programcreek.com/java-api-examples/?api=com.jayway.jsonpath.JsonPath
 # cucumber
 
 https://github.com/wakaleo
+
+# load testing
+
+https://www.youtube.com/watch?v=SoW2pBak1_Q
