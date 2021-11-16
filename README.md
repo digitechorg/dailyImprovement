@@ -36,3 +36,8 @@ https://github.com/wakaleo
 # load testing
 
 https://www.youtube.com/watch?v=SoW2pBak1_Q
+
+# clean code
+
+https://github.com/roanbrasil
+
