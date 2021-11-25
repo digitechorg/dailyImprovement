@@ -67,6 +67,11 @@ https://medium.com/neotiv-gmbh/introduction-to-microservice-design-patterns-b20d
 
 Data Structure & Algorithm Coding Questions in Java Interview
 
+# Java Streams
+
+https://jp-easy.medium.com/java-stream-api-examples-7696a51d39aa
+
+
 
 
 
