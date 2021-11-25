@@ -55,3 +55,7 @@ https://faun.pub/a-solid-guide-to-s-o-l-i-d-principles-77af3f3a52ba
 
 https://zonito.medium.com/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f
 
+# Spring JPA
+
+https://medium.com/@akn_42922
+
