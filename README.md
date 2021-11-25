@@ -50,3 +50,8 @@ https://levelup.gitconnected.com/java-generics-advanced-cases-d05db19b47d5
 # SOLID
 
 https://faun.pub/a-solid-guide-to-s-o-l-i-d-principles-77af3f3a52ba
+
+# REST API Best Practices
+
+https://zonito.medium.com/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f
+
