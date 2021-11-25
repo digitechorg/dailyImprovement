@@ -45,4 +45,6 @@ https://github.com/roanbrasil
 
 https://levelup.gitconnected.com/java-generics-advanced-cases-d05db19b47d5
 
+# SOLID
 
+https://faun.pub/a-solid-guide-to-s-o-l-i-d-principles-77af3f3a52ba
