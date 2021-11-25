@@ -71,7 +71,9 @@ Data Structure & Algorithm Coding Questions in Java Interview
 
 https://jp-easy.medium.com/java-stream-api-examples-7696a51d39aa
 
+# Spring Boot Authentication using Spring Security, DataJPA, MySQL
 
+https://medium.com/@razmyasdf/spring-boot-authentication-using-spring-security-datajpa-mysql-25038bdd6d2f
 
 
 
