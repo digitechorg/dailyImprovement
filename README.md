@@ -59,3 +59,9 @@ https://zonito.medium.com/best-practice-and-cheat-sheet-for-rest-api-design-6a6e
 
 https://medium.com/@akn_42922
 
+# Introduction to Microservice Design Patterns
+
+https://medium.com/neotiv-gmbh/introduction-to-microservice-design-patterns-b20d64137261
+
+
+
