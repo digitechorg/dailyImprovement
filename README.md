@@ -41,3 +41,8 @@ https://www.youtube.com/watch?v=SoW2pBak1_Q
 
 https://github.com/roanbrasil
 
+# Generics
+
+https://levelup.gitconnected.com/java-generics-advanced-cases-d05db19b47d5
+
+
