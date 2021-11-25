@@ -37,6 +37,8 @@ https://github.com/wakaleo
 
 https://www.youtube.com/watch?v=SoW2pBak1_Q
 
+https://medium.com/capillary-tech/load-testing-and-performance-improvement-of-java-application-step-by-step-guide-part-2-c26efcb39c6d
+
 # clean code
 
 https://github.com/roanbrasil
