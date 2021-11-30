@@ -75,5 +75,10 @@ https://jp-easy.medium.com/java-stream-api-examples-7696a51d39aa
 
 https://medium.com/@razmyasdf/spring-boot-authentication-using-spring-security-datajpa-mysql-25038bdd6d2f
 
+# Domain Driven
+
+https://medium.com/@kirekov?p=62cb212a42a2
+
+
 
 
