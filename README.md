@@ -87,5 +87,7 @@ https://medium.com/@kirekov?p=62cb212a42a2
 https://inspeerity.com/blog/how-to-call-aws-api-gateway-from-the-java-code/
 
 
+# elastic search
 
+https://medium.com/@sourav.pati09/how-to-use-java-high-level-rest-client-with-spring-boot-to-talk-to-aws-elasticsearch-2b6106f2e2c
 
