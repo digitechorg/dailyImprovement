@@ -33,6 +33,9 @@ https://www.programcreek.com/java-api-examples/?api=com.jayway.jsonpath.JsonPath
 
 https://github.com/wakaleo
 
+# Rest Api connectivity via IAM role
+
+https://inspeerity.com/blog/how-to-call-aws-api-gateway-from-the-java-code/
 # load testing
 
 https://www.youtube.com/watch?v=SoW2pBak1_Q
