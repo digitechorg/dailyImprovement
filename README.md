@@ -82,6 +82,10 @@ https://medium.com/@razmyasdf/spring-boot-authentication-using-spring-security-d
 
 https://medium.com/@kirekov?p=62cb212a42a2
 
+# Rest api call using IAM
+
+https://inspeerity.com/blog/how-to-call-aws-api-gateway-from-the-java-code/
+
 
 
 
