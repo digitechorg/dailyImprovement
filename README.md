@@ -95,3 +95,7 @@ https://medium.com/@sourav.pati09/how-to-use-java-high-level-rest-client-with-sp
 
 https://blog.devgenius.io/25-must-visit-killer-websites-for-developers-7d15aceb7508
 
+# all about github
+
+https://faun.pub/continuous-integration-of-java-project-with-github-actions-7a8a0e8246ef
+
