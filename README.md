@@ -91,3 +91,7 @@ https://inspeerity.com/blog/how-to-call-aws-api-gateway-from-the-java-code/
 
 https://medium.com/@sourav.pati09/how-to-use-java-high-level-rest-client-with-spring-boot-to-talk-to-aws-elasticsearch-2b6106f2e2c
 
+# killer website
+
+https://blog.devgenius.io/25-must-visit-killer-websites-for-developers-7d15aceb7508
+
