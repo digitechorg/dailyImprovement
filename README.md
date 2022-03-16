@@ -1,5 +1,8 @@
 # dailyImprovement
 
+# Clean Architecture
+
+https://medium.com/@ccpatrut/clean-architecture-in-a-spring-application-312e119ee8ec
 
 # Make Your Life Easier With MapStruct & Lombok
 
